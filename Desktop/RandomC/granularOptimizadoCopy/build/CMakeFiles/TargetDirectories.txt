@@ -1,0 +1,3 @@
+C:/Users/alan2/Desktop/RandomC/granularOptimizado - Copy/build/CMakeFiles/app.dir
+C:/Users/alan2/Desktop/RandomC/granularOptimizado - Copy/build/CMakeFiles/edit_cache.dir
+C:/Users/alan2/Desktop/RandomC/granularOptimizado - Copy/build/CMakeFiles/rebuild_cache.dir

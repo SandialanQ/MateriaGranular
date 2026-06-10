@@ -1,0 +1,102 @@
+{
+	"abstract" : true,
+	"artifacts" : 
+	[
+		{
+			"path" : "C:/msys64/ucrt64/bin/glew32.dll"
+		},
+		{
+			"path" : "C:/msys64/ucrt64/lib/libglew32.dll.a"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package",
+			"set_target_properties",
+			"copy_imported_target_properties"
+		],
+		"files" : 
+		[
+			"C:/msys64/ucrt64/lib/cmake/glew/glew-config.cmake",
+			"C:/msys64/ucrt64/share/cmake/Modules/FindGLEW.cmake",
+			"CMakeLists.txt",
+			"C:/msys64/ucrt64/lib/cmake/glew/CopyImportedTargetProperties.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 139,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 56,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 67,
+				"parent" : 6
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "GLEW::GLEW::@6890427a1f51a3e7e1df",
+	"imported" : true,
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 7,
+			"fragment" : "opengl32"
+		},
+		{
+			"backtrace" : 7,
+			"fragment" : "glu32"
+		}
+	],
+	"local" : true,
+	"name" : "GLEW::GLEW",
+	"nameOnDisk" : "glew32.dll",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "SHARED_LIBRARY"
+}

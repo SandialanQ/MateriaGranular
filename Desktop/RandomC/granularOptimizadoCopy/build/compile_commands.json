@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/alan2/Desktop/RandomC/granularOptimizado - Copy/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL  -g -std=gnu++17 -o CMakeFiles\\app.dir\\main.cpp.obj -c \"C:\\Users\\alan2\\Desktop\\RandomC\\granularOptimizado - Copy\\main.cpp\"",
+  "file": "C:/Users/alan2/Desktop/RandomC/granularOptimizado - Copy/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+}
+]
